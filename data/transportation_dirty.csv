@@ -1,0 +1,69 @@
+﻿trip_id,trip_date,city,transport_mode,origin,destination,distance_km,duration_min,fare_idr,payment_method,passenger_count,driver_rating,status
+TRP001,2026-08-01,Jakarta,Bus,Blok M,Monas,12.5,45,3500,Cash,1,4.5,Completed
+TRP002,2026/08/01,jakarta,bus,Harmoni,Kota,8.2,30,3500,cash,1,4.1,completed
+TRP003,01-08-2026, Jakarta ,MRT,Lebak Bulus,Bundaran HI,16,32,14000,E-Wallet,1,4.8,Completed
+TRP004,2026-08-01,JAKARTA,mrt,Fatmawati,Dukuh Atas,10.4,22,12000,e-wallet,1,,Completed
+TRP005,2026-08-02,Bandung,Angkot,Dago,Alun-Alun,7.1,28,8000,Cash,2,4.0,Completed
+TRP006,2026-08-02,bandung ,angkot,Cihampelas,Braga,5.5,25,7000,cash,2,3.9,completed
+TRP007,2026-08-02,Bandung,Online Bike,Setiabudi,Pasteur,6.3,18,18000,E-Wallet,1,4.7,Completed
+TRP008,2026-08-02,Bandung,ojol,Antapani,Gedung Sate,8.8,24,22000,eWallet,1,4.6,Completed
+TRP009,2026-08-03,Surabaya,Bus,Wonokromo,Tunjungan,9.7,35,5000,Cash,1,4.2,Completed
+TRP010,2026-08-03,surabaya,BUS,Rungkut,Gubeng,11.3,40,5000,CASH,1,4.0,completed
+TRP011,2026-08-03,Surabaya ,Online Car,Pakuwon,Tunjungan,13.6,38,55000,Credit Card,2,4.9,Completed
+TRP012,2026-08-03,Surabaya,online car,Galaxy Mall,Juanda,18.4,42,78000,credit_card,2,4.8,Completed
+TRP013,2026-08-04,Yogyakarta,Trans Jogja,Malioboro,Prambanan,18.1,55,3600,Cash,1,4.3,Completed
+TRP014,2026-08-04,Jogja,transjogja,UGM,Malioboro,5.2,20,3600,cash,1,4.4,Completed
+TRP015,2026-08-04,Yogyakarta,Online Bike,Tugu,Prawirotaman,4.8,15,15000,E-Wallet,1,4.9,Completed
+TRP016,2026-08-04,Yogyakarta,Ojol,Kotagede,Malioboro,7.6,23,19000,e-wallet,1,4.5,Cancelled
+TRP017,2026-08-05,Semarang,BRT,Simpang Lima,Tawang,6.9,27,4000,Cash,1,4.0,Completed
+TRP018,2026-08-05,semarang,brt,Banyumanik,Simpang Lima,10.2,38,4000,cash,1,,Completed
+TRP019,2026-08-05,Semarang,Online Car,Tembalang,Paragon,12.8,35,49000,E-Wallet,3,4.7,Completed
+TRP020,2026-08-05,Semarang,Online Car,Pedurungan,Kota Lama,8.9,31,41000,E-Wallet,2,4.6,Completed
+TRP021,2026-08-06,Jakrta,Bus,Kampung Rambutan,Cawang,10.1,40,3500,Cash,1,4.1,Completed
+TRP022,2026-08-06,Jakarta,MRT,Blok M,Bundaran HI,7.9,17,10000,E-Wallet,1,4.8,Completed
+TRP023,2026-08-06,Jakarta,Online Bike,Kemang,SCBD,5.7,16,17000,E-Wallet,1,4.9,Completed
+TRP024,2026-08-06, Jakarta,Online Car,Kelapa Gading,Sudirman,15.2,50,68000,Credit Card,2,4.6,Completed
+TRP025,2026-08-07,Bandung,Angkot,Ledeng,Dago,6.4,29,7000,Cash,2,3.8,Completed
+TRP026,2026-08-07,Bandung,Online Bike,Buah Batu,Asia Afrika,7.2,21,21000,E-Wallet,1,4.7,Completed
+TRP027,2026-08-07,Bandung,Online Car,Lembang,Dago,14.7,44,62000,Credit Card,4,4.5,Completed
+TRP028,2026-08-07,Bandung,Online Car,Cimahi,Pasteur,,36,51000,E-Wallet,2,4.4,Completed
+TRP029,2026-08-08,Surabaya,Bus,Kenjeran,Tunjungan,10.8,39,5000,Cash,1,4.2,Completed
+TRP030,2026-08-08,Surabaya,Online Bike,Darmo,Gubeng,6.1,19,18000,E-Wallet,1,4.8,Completed
+TRP031,2026-08-08,Surabaya,Online Car,Rungkut,Juanda,14.9,41,65000,Credit Card,3,4.7,Completed
+TRP032,2026-08-08,Surabaya,Online Car,Pakuwon,Gubeng,11.7,35,Rp 52.000,E-Wallet,2,4.6,Completed
+TRP033,2026-08-09,Yogyakarta,Trans Jogja,Jombor,Malioboro,7.8,30,3600,Cash,1,4.2,Completed
+TRP034,2026-08-09,Yogyakarta,Online Bike,Gejayan,Malioboro,5.6,17,16000,E-Wallet,1,4.9,Completed
+TRP035,2026-08-09,Yogyakarta,Online Car,Sleman,Malioboro,12.3,34,47000,Credit Card,2,4.5,Completed
+TRP036,2026-08-09,Yogyakarta,Online Car,Bantul,Malioboro,"13,5",39,50000,credit card,3,4.4,Completed
+TRP037,2026-08-10,Semarang,BRT,Tawang,Simpang Lima,6.9,26,4000,Cash,1,4.1,Completed
+TRP038,2026-08-10,Semarang,Online Bike,Tembalang,Simpang Lima,8.1,22,20000,E-Wallet,1,4.8,Completed
+TRP039,2026-08-10,Semarang,Online Car,Banyumanik,Kota Lama,10.7,33,45000,Credit Card,2,4.6,Completed
+TRP040,2026-08-10,Semarang,Online Car,Mijen,Paragon,14.2,48,,E-Wallet,2,4.5,Completed
+TRP041,2026-08-11,Jakarta,Bus,Rawamangun,Senen,8.5,35,3500,Cash,,4.0,Completed
+TRP042,2026-08-11,Jakarta,MRT,ASEAN,Bundaran HI,6.8,15,9000,E-Wallet,1,4.9,Completed
+TRP043,2026-08-11,Jakarta,Online Bike,Tebet,Kuningan,4.9,14,16000,E-Wallet,1,N/A,Completed
+TRP044,2026-08-11,Jakarta,Online Car,PIK,Sudirman,19.6,65,95000,Credit Card,2,4.7,Completed
+TRP045,2026-08-12,Bandung,Angkot,Cicaheum,Dago,8.6,35,8000,Cash,2,3.9,Completed
+TRP046,2026-08-12,Bandung,Online Bike,Kiaracondong,Braga,7.4,20,20000,E-Wallet,1,4.7,Completed
+TRP047,2026-08-12,Bandung,Online Car,Dago,Lembang,15.1,46,64000,Credit Card,3,4.5,Completed
+TRP048,2026-08-12,Bandung,Online Car,Pasteur,Gedebage,18.9,52,73000,E-Wallet,2,4.4,Completed
+TRP049,2026-08-13,Surabaya,Bus,Gubeng,Tunjungan,4.6,22,5000,Cash,1,4.3,Completed
+TRP050,2026-08-13,Surabaya,Online Bike,Wonokromo,Darmo,5 km,16,17000,E-Wallet,1,4.8,Completed
+TRP051,2026-08-13,Surabaya,Online Car,Mulyorejo,Pakuwon,16.5,49,69000,Credit Card,3,4.6,Completed
+TRP052,2026-08-13,Surabaya,Online Car,Juanda,Tunjungan,20.2,55,88000,E-Wallet,2,4.7,Completed
+TRP053,2026-08-14,Yogyakarta,Trans Jogja,Malioboro,UGM,5.1,21,3600,Cash,1,4.4,Completed
+TRP054,2026-08-14,Yogyakarta,Online Bike,Seturan,Tugu,6.2,18,18000,E-Wallet,1,4.8,Completed
+TRP055,2026-08-14,Yogyakarta,Online Car,Prambanan,Malioboro,18.3,47,70000,Credit Card,3,4.5,Completed
+TRP056,2026-08-14,Yogyakarta,Online Car,Kaliurang,Malioboro,22.1,61,82000,E-Wallet,4,4.3,Completed
+TRP057,2026-08-15,Semarang,BRT,Simpang Lima,Tawang,6.9,27,4000,Cash,1,4.2,Completed
+TRP058,2026-08-15,Semarang,Online Bike,Kota Lama,Sampangan,7.3,20,19000,E-Wallet,1,4.7,Completed
+TRP059,2026-08-15,Semarang,Online Car,Tembalang,Bandara Ahmad Yani,16.7,43,67000,Credit Card,2,4.6,Completed
+TRP060,2026-08-15,Semarang,Online Car,Ngaliyan,Paragon,10.9,34,46000,E-Wallet,2,4.5,Completed
+TRP007,2026-08-02,Bandung,Online Bike,Setiabudi,Pasteur,6.3,18,18000,E-Wallet,1,4.7,Completed
+TRP033,2026-08-09,Yogyakarta,Trans Jogja,Jombor,Malioboro,7.8,30,3600,Cash,1,4.2,Completed
+TRP061,,Jakarta,Online Bike,Sudirman,Kuningan,3.8,12,14000,E-Wallet,1,4.8,Completed
+TRP062,2026-08-16,,Bus,Harmoni,Kota,8.1,31,3500,Cash,1,4.0,Completed
+TRP063,2026-08-16,Bandung,Online Car,Dago,Pasteur,6.7,-15,32000,Credit Card,2,4.5,Completed
+TRP064,2026-08-16,Surabaya,Online Car,Gubeng,Juanda,15.8,44,72000,E-Wallet,0,4.6,Completed
+TRP065,2026-08-16,Semarang,BRT,Tawang,Simpang Lima,6.8,28,4000,Cash,1,5.7,Completed
+TRP066,2026-08-16,Yogyakarta,Online Bike,UGM,Malioboro,5.0,17,-15000,E-Wallet,1,4.8,Completed

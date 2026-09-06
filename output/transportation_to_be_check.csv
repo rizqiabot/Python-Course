@@ -1,0 +1,27 @@
+trip_id,trip_date,city,transport_mode,origin,destination,distance_km,duration_min,fare_idr,payment_method,passenger_count,driver_rating,status
+Trp002,To be Checked,Jakarta,Bus,Harmoni,Kota,8.2,30,3500,Cash,1.0,4.1,Completed
+Trp003,To be Checked,Jakarta,Mrt,Lebak Bulus,Bundaran Hi,16,32,14000,E-Wallet,1.0,4.8,Completed
+Trp004,2026-01-08,Jakarta,Mrt,Fatmawati,Dukuh Atas,10.4,22,12000,E-Wallet,1.0,To be Checked,Completed
+Trp018,2026-05-08,Semarang,Brt,Banyumanik,Simpang Lima,10.2,38,4000,Cash,1.0,To be Checked,Completed
+Trp028,2026-07-08,Bandung,Online Car,Cimahi,Pasteur,To be Checked,36,51000,E-Wallet,2.0,4.4,Completed
+Trp040,2026-10-08,Semarang,Online Car,Mijen,Paragon,14.2,48,To be Checked,E-Wallet,2.0,4.5,Completed
+Trp041,2026-11-08,Jakarta,Bus,Rawamangun,Senen,8.5,35,3500,Cash,To be Checked,4.0,Completed
+Trp043,2026-11-08,Jakarta,Online Bike,Tebet,Kuningan,4.9,14,16000,E-Wallet,1.0,To be Checked,Completed
+Trp049,To be Checked,Surabaya,Bus,Gubeng,Tunjungan,4.6,22,5000,Cash,1.0,4.3,Completed
+Trp050,To be Checked,Surabaya,Online Bike,Wonokromo,Darmo,5 Km,16,17000,E-Wallet,1.0,4.8,Completed
+Trp051,To be Checked,Surabaya,Online Car,Mulyorejo,Pakuwon,16.5,49,69000,Credit Card,3.0,4.6,Completed
+Trp052,To be Checked,Surabaya,Online Car,Juanda,Tunjungan,20.2,55,88000,E-Wallet,2.0,4.7,Completed
+Trp053,To be Checked,Yogyakarta,Trans Jogja,Malioboro,Ugm,5.1,21,3600,Cash,1.0,4.4,Completed
+Trp054,To be Checked,Yogyakarta,Online Bike,Seturan,Tugu,6.2,18,18000,E-Wallet,1.0,4.8,Completed
+Trp055,To be Checked,Yogyakarta,Online Car,Prambanan,Malioboro,18.3,47,70000,Credit Card,3.0,4.5,Completed
+Trp056,To be Checked,Yogyakarta,Online Car,Kaliurang,Malioboro,22.1,61,82000,E-Wallet,4.0,4.3,Completed
+Trp057,To be Checked,Semarang,Brt,Simpang Lima,Tawang,6.9,27,4000,Cash,1.0,4.2,Completed
+Trp058,To be Checked,Semarang,Online Bike,Kota Lama,Sampangan,7.3,20,19000,E-Wallet,1.0,4.7,Completed
+Trp059,To be Checked,Semarang,Online Car,Tembalang,Bandara Ahmad Yani,16.7,43,67000,Credit Card,2.0,4.6,Completed
+Trp060,To be Checked,Semarang,Online Car,Ngaliyan,Paragon,10.9,34,46000,E-Wallet,2.0,4.5,Completed
+Trp061,To be Checked,Jakarta,Online Bike,Sudirman,Kuningan,3.8,12,14000,E-Wallet,1.0,4.8,Completed
+Trp062,To be Checked,To be Checked,Bus,Harmoni,Kota,8.1,31,3500,Cash,1.0,4.0,Completed
+Trp063,To be Checked,Bandung,Online Car,Dago,Pasteur,6.7,-15,32000,Credit Card,2.0,4.5,Completed
+Trp064,To be Checked,Surabaya,Online Car,Gubeng,Juanda,15.8,44,72000,E-Wallet,0.0,4.6,Completed
+Trp065,To be Checked,Semarang,Brt,Tawang,Simpang Lima,6.8,28,4000,Cash,1.0,5.7,Completed
+Trp066,To be Checked,Yogyakarta,Online Bike,Ugm,Malioboro,5.0,17,-15000,E-Wallet,1.0,4.8,Completed
