@@ -1,0 +1,51 @@
+trip_id,tanggal,kota,moda_transportasi,tujuan_perjalanan,jarak_km,durasi_menit,biaya_rp,jumlah_penumpang,cuaca,rating,emisi_co2_kg
+TRP001,2026-01-03,Jakarta,Bus,Bekerja,12.5,48,15000,32,Cerah,4.2,1.13
+TRP002,2026-01-05,Tangerang,Kereta,Bekerja,28.0,42,18000,185,Berawan,4.6,1.15
+TRP003,2026-01-08,Bandung,Motor,Belanja,6.8,21,12000,1,Hujan,3.9,0.70
+TRP004,2026-01-11,Surabaya,Mobil,Bisnis,18.4,55,52000,3,Cerah,4.1,3.53
+TRP005,2026-01-14,Yogyakarta,Sepeda,Rekreasi,5.2,25,0,1,Cerah,4.8,0.00
+TRP006,2026-01-18,Jakarta,MRT,Bekerja,14.0,29,14000,142,Berawan,4.7,0.53
+TRP007,2026-01-21,Bogor,Angkot,Pendidikan,9.3,39,10000,10,Hujan,3.6,0.84
+TRP008,2026-01-24,Semarang,Bus,Pendidikan,16.7,50,12000,27,Cerah,4.0,1.50
+TRP009,2026-01-27,Medan,Ojek Online,Belanja,7.6,26,19000,1,Berawan,4.3,0.78
+TRP010,2026-01-30,Denpasar,Mobil,Rekreasi,22.1,61,68000,4,Cerah,4.5,4.24
+TRP011,2026-02-02,Tangerang,Motor,Bekerja,11.2,34,15000,1,Cerah,4.0,1.15
+TRP012,2026-02-05,Jakarta,TransJakarta,Bekerja,17.5,58,3500,41,Hujan,4.1,1.58
+TRP013,2026-02-08,Bandung,Kereta,Rekreasi,34.0,49,22000,210,Cerah,4.7,1.39
+TRP014,2026-02-11,Surabaya,Sepeda,Pendidikan,4.6,23,0,1,Berawan,4.6,0.00
+TRP015,2026-02-14,Yogyakarta,Ojek Online,Belanja,8.9,28,21000,1,Hujan,3.8,0.91
+TRP016,2026-02-17,Bogor,Mobil,Bekerja,15.3,52,47000,2,Berawan,3.9,2.94
+TRP017,2026-02-20,Semarang,Bus,Bisnis,20.5,57,17000,35,Cerah,4.2,1.85
+TRP018,2026-02-23,Medan,Angkot,Belanja,7.4,31,8000,8,Cerah,3.7,0.67
+TRP019,2026-02-26,Denpasar,Motor,Rekreasi,13.6,36,18000,2,Cerah,4.4,1.40
+TRP020,2026-03-01,Jakarta,MRT,Pendidikan,10.8,24,12000,156,Hujan,4.5,0.41
+TRP021,2026-03-04,Tangerang,Kereta,Bekerja,31.5,46,20000,198,Cerah,4.8,1.29
+TRP022,2026-03-07,Bandung,Mobil,Bisnis,19.7,59,61000,3,Hujan,3.7,3.78
+TRP023,2026-03-10,Surabaya,Bus,Pendidikan,14.2,44,10000,29,Berawan,4.1,1.28
+TRP024,2026-03-13,Yogyakarta,Sepeda,Rekreasi,7.1,32,0,1,Cerah,4.9,0.00
+TRP025,2026-03-16,Bogor,Ojek Online,Bekerja,9.8,37,24000,1,Hujan,3.8,1.01
+TRP026,2026-03-19,Semarang,Motor,Belanja,8.3,24,13000,1,Cerah,4.2,0.85
+TRP027,2026-03-22,Medan,Mobil,Rekreasi,25.6,68,79000,4,Berawan,4.3,4.92
+TRP028,2026-03-25,Denpasar,Bus,Bisnis,18.9,53,16000,31,Cerah,4.0,1.70
+TRP029,2026-03-28,Jakarta,TransJakarta,Bekerja,13.4,46,3500,38,Berawan,4.3,1.21
+TRP030,2026-03-31,Tangerang,Motor,Pendidikan,10.1,30,14000,2,Hujan,3.9,1.04
+TRP031,2026-04-03,Bandung,Kereta,Bisnis,40.0,55,28000,225,Cerah,4.7,1.64
+TRP032,2026-04-06,Surabaya,Ojek Online,Belanja,6.2,20,16000,1,Cerah,4.5,0.64
+TRP033,2026-04-09,Yogyakarta,Mobil,Rekreasi,17.8,47,54000,3,Berawan,4.2,3.42
+TRP034,2026-04-12,Bogor,Angkot,Pendidikan,11.6,45,11000,11,Hujan,3.5,1.04
+TRP035,2026-04-15,Semarang,Sepeda,Bekerja,6.4,29,0,1,Cerah,4.8,0.00
+TRP036,2026-04-18,Medan,Bus,Bekerja,21.3,64,18000,37,Hujan,3.9,1.92
+TRP037,2026-04-21,Denpasar,Motor,Rekreasi,15.7,41,22000,2,Cerah,4.6,1.62
+TRP038,2026-04-24,Jakarta,MRT,Bisnis,16.2,31,14000,168,Berawan,4.6,0.62
+TRP039,2026-04-27,Tangerang,Mobil,Bekerja,23.5,72,71000,2,Hujan,3.6,4.51
+TRP040,2026-04-30,Bandung,Bus,Pendidikan,13.8,43,11000,30,Cerah,4.2,1.24
+TRP041,2026-05-03,Surabaya,Kereta,Rekreasi,37.5,52,25000,205,Berawan,4.7,1.54
+TRP042,2026-05-06,Yogyakarta,Ojek Online,Bekerja,9.1,27,22000,1,Cerah,4.4,0.94
+TRP043,2026-05-09,Bogor,Motor,Belanja,7.9,25,12000,1,Hujan,3.8,0.81
+TRP044,2026-05-12,Semarang,Mobil,Bisnis,20.2,58,63000,3,Cerah,4.1,3.88
+TRP045,2026-05-15,Medan,Angkot,Pendidikan,8.7,36,9000,9,Berawan,3.7,0.78
+TRP046,2026-05-18,Denpasar,Sepeda,Rekreasi,8.2,35,0,1,Cerah,4.9,0.00
+TRP047,2026-05-21,Jakarta,TransJakarta,Bekerja,19.6,65,3500,45,Hujan,4.0,1.76
+TRP048,2026-05-24,Tangerang,Kereta,Bisnis,29.8,44,21000,192,Cerah,4.8,1.22
+TRP049,2026-05-27,Bandung,Ojek Online,Belanja,5.8,19,15000,1,Berawan,4.5,0.60
+TRP050,2026-05-30,Surabaya,Mobil,Rekreasi,24.3,66,75000,4,Cerah,4.4,4.67
